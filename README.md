@@ -8,3 +8,4 @@ usage
 2.DyanmicIpServerLocal build and put it in  to u want use service Long-time-on computers on the local area network，run setup.bat for windows service
 3.GetCompanyPublicIp build is winform,set DynamicIpServer 1. ip address and port,get ip,now u konw 2. dyanmicIp
 4.In your router set dmz or port forwarding，in your app can get your service
+If your router have VPN is better,skip 4
